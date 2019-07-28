@@ -41,7 +41,7 @@ if __FILE__ == $0
 	mg.names = ["Albert", "Brenda", "Charles", "Dave", "Engelbert"]
 	mg.say_hi
 	mg.say_bye
-
+	
 	mg.names = nil
 	mg.say_hi
 	mg.say_bye
