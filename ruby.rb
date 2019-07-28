@@ -1,4 +1,5 @@
-# testing out ruby
+# testing out ruby - https://www.ruby-lang.org/en/documentation/quickstart/4/
+
 class MegaGreeter
 	attr_accessor :names
 
